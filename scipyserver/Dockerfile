@@ -1,4 +1,4 @@
-FROM ipython/scipystack
+FROM elluminatte/scipystack
 
 MAINTAINER IPython Project <ipython-dev@scipy.org>
 
